@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityProjectTemplate.sln"
+    "dotnet.defaultSolution": "Mini-Jam-192-Overflow.sln"
 }
